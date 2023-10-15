@@ -1,0 +1,21 @@
+.productdetails .d-flex img{
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+}
+
+.productdetails .main{
+    width: 100%;
+
+    object-fit: contain;
+}
+
+.productdetails .title{
+    color: #FEBB41;
+    font-size: 2rem;
+}
+
+.productdetails input{
+    width: 2rem;
+    margin: 0 4px;
+}
